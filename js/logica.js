@@ -10,6 +10,5 @@ function clr(){
 
 function dis(valor){
     document.getElementById("display-calculadora").value += valor
-    if (value ==)
 }
 
