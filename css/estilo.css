@@ -27,6 +27,10 @@ html {
     padding-left: 10px;
   }
 
+#display-calculadora::placeholder{
+    color: white
+}
+
 button {
     height: 60px;
     background-color: rgba(252, 249, 249, 0.535);
