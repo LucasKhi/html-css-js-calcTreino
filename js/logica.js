@@ -5,10 +5,11 @@ function calcula(){
 } 
 
 function clr(){
-    document.getElementById("display-calculadora").value = "0"
+    document.getElementById("display-calculadora").value = ""
 }
 
 function dis(valor){
     document.getElementById("display-calculadora").value += valor
+    if (value ==)
 }
 
